@@ -1,0 +1,524 @@
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.image.transfer.bandwidthPerSec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.instrumentation
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ha.failover-controller.cli-check.rpc-timeout.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.linux-container-executor.cgroups.hierarchy
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.write.stale.datanode.ratio
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.security.groups.cache.warn.after.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.client.thread-count
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.mapfile.bloom.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.ha.fencing.ssh.connect-timeout
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.zk-num-retries
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3.bytes-per-checksum
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.am.container.log.limit.kb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.edit.log.autoroll.check.interval.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.automatic.close
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.trash.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.journalnode.https-address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.security.authentication
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.ttl-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.defaultFS
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.generic-application-history.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.ssl.server.conf
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ipc.client.connect.max.retries
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.delayed.delegation-token.removal-interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.journalnode.http-address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.shared.file.descriptor.paths
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.taskscheduler
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.speculative.speculativecap
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.store-class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.am.liveness-monitor.expiry-interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.output.fileoutputformat.compress
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for net.topology.node.switch.mapping.impl
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.replication.considerLoad
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.fs-limits.min-block-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.swift.impl
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.audit.loggers
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.max.split.locations
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.counters.max
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.block.write.retries
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.nm.liveness-monitor.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.short.circuit.shared.memory.watcher.interrupt.check.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.map.index.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapred.child.java.opts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.local.dir.minspacestart
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.combine.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.client.progressmonitor.pollinterval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.https.keystore.resource
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.profile.map.params
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.tasktracker.maxblacklists
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.queuename
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.client-am.ipc.max-retries-on-timeouts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.localizer.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.mapfile.bloom.error.rate
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.delete.thread-count
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.split.metainfo.maxsize
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.scheduler.maximum-allocation-vcores
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapred.mapper.new-api
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ipc.client.tcpnodelay
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.am.resource.mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.dns.nameserver
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.disk-health-checker.min-free-space-per-disk-mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.output.compress.codec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.accesstime.precision
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.log.level
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.seqfile.compress.blocksize
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.taskcontroller
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.security.groups.cache.secs
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.context
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.end-notification.max.attempts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.linux-container-executor.nonsecure-mode.local-user
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.webapp.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.submithostname
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.recovery.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.expire.trackers.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.webapp.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.health-checker.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.loadedjobs.cache.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.history-writer.multi-threaded-dispatcher.pool-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.security.authorization
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.map.output.collector.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.am.max-attempts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.ftp.host
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.am.scheduler.heartbeat.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.ifile.readahead
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.scheduler.monitor.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.zk-retry-interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ha.zookeeper.session-timeout.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.taskmemorymanager.monitoringinterval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.shuffle.parallelcopies
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.mmap.retry.timeout.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.skip.maxrecords
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.output.value.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.classloader.system.classes
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.avoid.read.stale.datanode
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.https.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.webapp.https.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.shuffle.read.timeout
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.remote-app-log-dir-suffix
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.output.fileoutputformat.compress.codec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.instrumentation
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.blockreport.intervalMsec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ipc.client.connect.retry.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.speculative
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.keytab
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.datestring.cache.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.balance.bandwidthPerSec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for file.blocksize
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.admin.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.cpu.vcores
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.container-monitor.procfs-tree.smaps-based-rss.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.configuration.provider-class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.resource-tracker.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.local.dir.minspacekill
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.staging.root.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.retiredjobs.cache.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ipc.client.connect.max.retries.on.timeouts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ha.zookeeper.acl
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.local-dirs
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.app-submission.cross-platform
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.shuffle.connect.timeout
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.block.access.key.update.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for rpc.metrics.quantile.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.block.access.token.lifetime
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.end-notification.retry.attempts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.system.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.file-block-storage-locations.timeout.millis
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.admin-env
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.jobhistory.block.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.log-aggregation.retain-seconds
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.indexcache.mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.handler-thread-count
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.checkpoint.check.period
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.hostname
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.block.write.replace-datanode-on-failure.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for net.topology.impl
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.directoryscan.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.container-monitor.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.default.chunk.view.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.speculative.slownodethreshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.reduce.slowstart.completedmaps
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapred.reducer.new-api
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.security.instrumentation.requires.admin
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.compression.codec.bzip2.library
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.http.authentication.signature.secret.file
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.safemode.min.datanodes
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.localizer.cache.target-size-mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.maxattempts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.input.fileinputformat.inputdir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.https.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3native.replication
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.path.based.cache.retry.interval.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.skip.proc.count.autoincr
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.cleaner.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for file.replication
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.hdfs.configuration.version
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ipc.client.idlethreshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.tmp.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.store.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.restart.recover
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.cluster.local.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.client.nodemanager-client-async.thread-pool-max-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.ipc.serializer.type
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.decommission.nodes.per.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.resource.cpu-vcores
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.reject-unresolved-dn-topology-mapping
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.delegation.key.update-interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3.buffer.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.support.allow.format
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.remote-app-log-dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.edit.log.autoroll.multiplier.threshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.work.around.non.threadsafe.getpwuid
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.profile.reduce.params
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.ha.automatic-failover.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.edits.noeditlogchannelflush
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.stale.datanode.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.shuffle.transfer.buffer.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.persist.jobstatus.active
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.logging.level
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.log-dirs
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ha.health-monitor.sleep-after-disconnect.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.fs.state-store.uri
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.checkpoint.edits.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.keytab
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.rpc.socket.factory.class.default
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.http.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.profile
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.move.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.edits.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.fuse.timer.period
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.http.policy
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.intermediate-done-dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.skip.proc.count.autoincr
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.AbstractFileSystem.viewfs.impl
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.speculative.slowtaskthreshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3native.stream-buffer-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.delete.debug-delay-sec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.secondary.namenode.kerberos.internal.spnego.principal
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.available-space-volume-choosing-policy.balanced-space-threshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3n.multipart.uploads.block.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.safemode.threshold-pct
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.ifile.readahead.bytes
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.scheduler.maximum-allocation-mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ipc.client.fallback-to-simple-auth-allowed
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.leveldb-timeline-store.read-cache-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.hostname
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3native.bytes-per-checksum
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.committer.setup.cleanup.needed
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.leveldb-timeline-store.ttl-interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.log-aggregation.compression-type
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.am.job.committer.commit-window
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.http.authentication.type
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.failover.sleep.base.millis
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.submithostaddress
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.vmem-check-enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.jetty.logs.serve.aliases
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ha.failover-controller.graceful-fence.rpc-timeout.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.shuffle.input.buffer.percent
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.max.transfer.threads
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.merge.inmem.threshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.io.sort.mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.acls.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.client.application-client-protocol.poll-interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.handler.count
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.connect.max-wait.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.retrycache.heap.percent
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.ssl.client.conf
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.container.liveness-monitor.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.vmem-pmem-ratio
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.client.completion.pollinterval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.client.max-retries
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.ssl.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.client.resolve.remote.symlinks
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.AbstractFileSystem.hdfs.impl
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.reduce.tasks.maximum
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.hostname
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.input.buffer.percent
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.am.command-opts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.invalidate.work.pct.per.iteration
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.bytes-per-checksum
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.webapp.https.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.replication
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.shuffle.ssl.file.buffer.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.list.cache.directives.num.responses
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.permissions.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.maxtasks.perjob
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.use.datanode.hostname
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.userlog.limit.kb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.fs-limits.max-directory-items
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3.client-write-packet-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.user.group.static.mapping.overrides
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.shuffle.max.threads
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.failover.sleep.max.millis
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.maps
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.fs-limits.max-component-length
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3.blocksize
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.output.compress
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.generic-application-history.fs-history-store.uri
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.edits.journal-plugin.qjournal
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.datanode.registration.ip-hostname-check
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.pmem-check-enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.short.circuit.replica.stale.threshold.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.https.need-auth
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.scheduler.minimum-allocation-mb
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.max-age-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ftp.replication
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.secondary.https-address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.blockreport.split.threshold
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.input.fileinputformat.split.minsize
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3n.block.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.token.tracking.ids.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.ipc.rpc.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.num.extra.edits.retained
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.localizer.cache.cleanup.interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.http.staticuser.user
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.jvm.numtasks
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.move.thread-count
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.profile.maps
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.resourcemanager.connect.wait.secs
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.max.locked.memory
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.cachereport.intervalMsec
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.shuffle.port
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.nodemanager.minimum.version
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.shuffle.connection-keep-alive.timeout
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.reduce.shuffle.merge.percent
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobtracker.http.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.skip.start.attempts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.connect.retry-interval.ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.scheduler.minimum-allocation-vcores
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.task.io.sort.factor
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.checkpoint.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for tfile.fs.input.buffer.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3.block.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for tfile.io.chunk.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3n.multipart.copy.block.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.serializations
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.max-completed-applications
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.jobhistory.principal
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.output.fileoutputformat.outputdir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.ha.automatic-failover.zk-base-path
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.end-notification.retry.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.backup.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3n.multipart.uploads.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.seqfile.sorter.recordlimit
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.block.access.token.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for s3native.client-write-packet-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ftp.bytes-per-checksum
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.security.group.mapping
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.end-notification.max.retry.interval
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.acl.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nm.liveness-monitor.expiry-interval-ms
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.mmap.cache.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.input.fileinputformat.list-status.num-threads
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.map.tasks.maximum
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.ttl-enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.nodemanager.linux-container-executor.resources-handler.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.max.objects
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.state-store.max-completed-applications
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.delegation.token.max-lifetime
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.classloader
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.timeline-service.leveldb-timeline-store.start-time-write-cache-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.hdfs-servers
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for nfs3.mountd.port
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.dns.nameserver
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.hdfs-blocks-metadata.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.readahead.bytes
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.ubertask.maxreduces
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.image.compress
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.shuffle.ssl.enabled
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.report.address
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.log-aggregation-enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.tasktracker.http.threads
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.stream-buffer-size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for tfile.fs.output.buffer.size
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.permissions.umask-mode
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.client.datanode-restart.timeout
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.resourcemanager.am.max-attempts
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for ha.failover-controller.graceful-fence.connection.retries
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.datanode.drop.cache.behind.writes
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.map.output.value.class
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for hadoop.common.configuration.version
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.ubertask.enable
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for yarn.app.mapreduce.am.resource.cpu-vcores
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for dfs.namenode.replication.work.multiplier.per.iteration
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.job.acl-modify-job
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for io.seqfile.local.dir
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for fs.s3.sleepTimeSeconds
+DEBUG main org.apache.hadoop.conf.Configuration - Handling deprecation for mapreduce.client.output.filter
+WARN main org.apache.hadoop.conf.Configuration - file:/tmp/hadoop-Gsr/mapred/local/localRunner/Gsr/job_local1430756580_0001/job_local1430756580_0001.xml:an attempt to override final parameter: mapreduce.job.end-notification.max.retry.interval;  Ignoring.
+WARN main org.apache.hadoop.conf.Configuration - file:/tmp/hadoop-Gsr/mapred/local/localRunner/Gsr/job_local1430756580_0001/job_local1430756580_0001.xml:an attempt to override final parameter: mapreduce.job.end-notification.max.attempts;  Ignoring.
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local1430756580_0001
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1430756580_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 0% reduce 0%
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Starting mapper thread pool executor.
+DEBUG Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Max local threads: 1
+DEBUG Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Map tasks to process: 1
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1430756580_0001_m_000000_0
+DEBUG LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.SortedRanges - currentIndex 0   0:0
+DEBUG LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - mapreduce.cluster.local.dir for child : /tmp/hadoop-Gsr/mapred/local/localRunner//Gsr/jobcache/job_local1430756580_0001/attempt_local1430756580_0001_m_000000_0
+DEBUG LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - using new api for output committer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@4cc80e77
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/E:/GSRKLIVE/Project/WorkSpaceGsr/testhadoop2/data/input/data.txt:0+40
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 180; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214328(104857312); length = 69/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local1430756580_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local1430756580_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1430756580_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+DEBUG Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Starting reduce thread pool executor.
+DEBUG Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Max local threads: 1
+DEBUG Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Reduce tasks to process: 1
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1430756580_0001_r_000000_0
+DEBUG pool-3-thread-1 org.apache.hadoop.mapred.SortedRanges - currentIndex 0   0:0
+DEBUG pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - mapreduce.cluster.local.dir for child : /tmp/hadoop-Gsr/mapred/local/localRunner//Gsr/jobcache/job_local1430756580_0001/attempt_local1430756580_0001_r_000000_0
+DEBUG pool-3-thread-1 org.apache.hadoop.mapred.Task - using new api for output committer
+INFO pool-3-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 0%
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@71323241
+INFO pool-3-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@37cce860
+INFO pool-3-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=1503238528, maxSingleShuffleLimit=375809632, mergeThreshold=992137472, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - LocalFetcher 1 going to fetch: attempt_local1430756580_0001_m_000000_0
+DEBUG localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - attempt_local1430756580_0001_m_000000_0: Proceeding with shuffle since usedMemory (0) is lesser than memoryLimit (1503238528).CommitMemory is (0)
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local1430756580_0001_m_000000_0 decomp: 122 len: 126 to MEMORY
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local1430756580_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+DEBUG EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - Got 0 map completion events from 0
+DEBUG EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - GetMapEventsThread about to sleep for 1000
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 122 bytes from map-output for attempt_local1430756580_0001_m_000000_0
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 122, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->122
+DEBUG localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.ShuffleSchedulerImpl - map attempt_local1430756580_0001_m_000000_0 done 1 / 1 copied.
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-3-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 118 bytes
+INFO pool-3-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 122 bytes to disk to satisfy reduce memory limit
+DEBUG pool-3-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Disk file: /tmp/hadoop-Gsr/mapred/local/localRunner/Gsr/jobcache/job_local1430756580_0001/attempt_local1430756580_0001_r_000000_0/output/map_0.out.merged Length is 126
+INFO pool-3-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 126 bytes from disk
+INFO pool-3-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 118 bytes
+INFO pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-3-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local1430756580_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local1430756580_0001_r_000000_0 is allowed to commit now
+INFO pool-3-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local1430756580_0001_r_000000_0' to file:/E:/GSRKLIVE/Project/WorkSpaceGsr/testhadoop2/data/out7/_temporary/0/task_local1430756580_0001_r_000000
+INFO pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-3-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local1430756580_0001_r_000000_0' done.
+INFO pool-3-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1430756580_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+DEBUG Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Merging data from DeprecatedRawLocalFileStatus{path=file:/E:/GSRKLIVE/Project/WorkSpaceGsr/testhadoop2/data/out7/_temporary/0/task_local1430756580_0001_r_000000; isDirectory=true; modification_time=1470580636046; access_time=0; owner=; group=; permission=rwxrwxrwx; isSymlink=false} to file:/E:/GSRKLIVE/Project/WorkSpaceGsr/testhadoop2/data/out7
+DEBUG Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Merging data from DeprecatedRawLocalFileStatus{path=file:/E:/GSRKLIVE/Project/WorkSpaceGsr/testhadoop2/data/out7/_temporary/0/task_local1430756580_0001_r_000000/part-r-00000; isDirectory=false; length=40; replication=1; blocksize=33554432; modification_time=1470580636053; access_time=0; owner=; group=; permission=rw-rw-rw-; isSymlink=false} to file:/E:/GSRKLIVE/Project/WorkSpaceGsr/testhadoop2/data/out7/part-r-00000
+DEBUG Thread-4 org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.fs.FileContext.getAbstractFileSystem(FileContext.java:330)
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:665)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1430756580_0001 completed successfully
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getCounters(Job.java:753)
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 33
+	File System Counters
+		FILE: Number of bytes read=742
+		FILE: Number of bytes written=439720
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=18
+		Map output bytes=180
+		Map output materialized bytes=126
+		Input split bytes=135
+		Combine input records=18
+		Combine output records=10
+		Reduce input groups=10
+		Reduce shuffle bytes=126
+		Reduce input records=10
+		Reduce output records=10
+		Spilled Records=20
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		CPU time spent (ms)=0
+		Physical memory (bytes) snapshot=0
+		Virtual memory (bytes) snapshot=0
+		Total committed heap usage (bytes)=513802240
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=40
+	File Output Format Counters 
+		Bytes Written=52
+DEBUG main org.apache.hadoop.security.UserGroupInformation - PrivilegedAction as:Gsr (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:311)
